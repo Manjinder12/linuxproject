@@ -5,3 +5,6 @@ Replace url in.archive.ubuntu.com and security.ubuntu.com with old-releases.ubun
 save and close it.
 
 Now run sudo apt-get update and after then install any packages you want to intall.
+
+
+echo "hi"
