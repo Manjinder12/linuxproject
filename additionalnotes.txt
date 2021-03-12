@@ -1,3 +1,4 @@
+AWS Certified Solutions Architect
 sudo gedit /etc/apt/sources.list
 
 Replace url in.archive.ubuntu.com and security.ubuntu.com with old-releases.ubuntu.com
